@@ -1,0 +1,32 @@
+  h1{
+      color:tomato;
+      text-decoration-color: seagreen;
+      text-decoration-line: underline;
+      text-decoration-style: dotted;
+      text-emphasis: inherit ;
+      text-shadow: 3px 2px 1px crimson;
+      text-indent: 2px;
+  }
+
+  body{
+    background-image: linear-gradient(to right top, #ffff3f, #ffeb2f, #ffd724, #ffc31d, #ffaf1b, #f3ab13, #e7a709, #dba300, #bdab00, #98b300, #6ab800, #01bc22);
+    mix-blend-mode: hard-light;
+  }
+
+  img{
+      margin-top: 10px;
+      height: 200px;
+      width: 200px;
+      padding-inline-start: 20px;
+      padding-inline-end: 15px;
+  }
+
+  button{
+     background-color: hotpink;
+     box-shadow: 2px 2px 1px 1px darkturquoise; 
+     border-color: darkorchid;
+     border-radius: 3px;
+  }
+
+  
+  
